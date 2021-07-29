@@ -5,4 +5,4 @@
 ### `npm install`
 ### `npm start`
 
-![alt text](https://github.com/ayushgupta1099/billeasy-frontend-test/blob/master/testImg.png?raw=true)
+![alt text](https://github.com/ayushgupta1099/billeasy-frontend-test/blob/master/src/images/testImg.png?raw=true)
